@@ -1,0 +1,82 @@
+*.class
+target/
+
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# IDEA metadata and output dirs
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# gitbook
+_book
+tmp
+.springBeans
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+._*
+.Spotlight-V100
+.Trashes
+
+######################
+# Logs
+######################
+*.log
+*.log.gz
+
+######################
+# Project Specific
+######################
+*build/
+*out/
+*classes/
+
+######################
+# Gradle
+######################
+.gradle/
+
+######################
+# Flyway Files
+######################
+flyway/jars/*.jar
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+.merge_file*
+
+######################
+# Gradle Wrapper
+######################
+!gradle/wrapper/gradle-wrapper.jar
+
+
+######################
+# Python
+######################
+*.pyc
+
+.java-version

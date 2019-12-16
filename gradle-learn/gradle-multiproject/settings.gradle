@@ -1,0 +1,6 @@
+rootProject.name = 'gradle-multiproject'
+include 'admin'
+include 'model'
+include 'repository'
+include 'web'
+
