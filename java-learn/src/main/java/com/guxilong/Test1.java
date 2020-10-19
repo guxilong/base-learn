@@ -12,5 +12,7 @@ public class Test1 {
         System.out.println("test main");
         System.out.println("test main");
         System.out.println("test main");
+        System.out.println("已写入暂存区");
+        System.out.println("未写入暂存区");
     }
 }
